@@ -1,4 +1,6 @@
 Day wise Detailed Lab Documentation
+The attached pdf contains the compiled day wise lab completion images for the documentation purpose and the attached images are same images used in the pdf
+
 
 Day 1 
 2:1 Multiplexer RTL to Gate Level Mapping
